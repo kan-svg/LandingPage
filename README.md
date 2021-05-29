@@ -4,6 +4,6 @@
 Webサイトのランディングページになります。
 
 【使用技術】  
-・HTML
-・CSS
-・Sass
+・HTML  
+・CSS  
+・Sass  
